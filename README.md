@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dhifkall
 - 👀 I’m interested in art, music, games, and programming
-- 🌱 I’m currently learning front end development through the Odin Project and have learned some Java programming
+- 🌱 I’m currently learning front end development and have learned some Java programming
 - 💞️ I’m looking to collaborate on ... nothing quite yet :) just focusing on learning more basics!
 - 📫 How to reach me -- amiddleton2945@gmail.com
 
